@@ -1,0 +1,23 @@
+.frame {
+	margin: 5% auto;
+}
+
+td {
+	width: 80px;
+	height: 80px;
+}
+.frame, th, td {
+	border-collapse: collapse;
+	border: 2px solid black;
+	font-size:1.8em;
+	text-align: center;
+}
+
+.box {
+	background-color: #3600BF;
+	color: white;
+}
+
+.empty {
+	background-color: white;
+}	
